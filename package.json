@@ -1,0 +1,10 @@
+{
+  "name": "subscription-management",
+  "version": "0.1.0",
+  "description": "The subscription management software for industries",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*"
+  ]
+}
